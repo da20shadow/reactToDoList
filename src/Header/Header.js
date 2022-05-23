@@ -4,7 +4,7 @@ function Header() {
   return (
     <>
       <header className="App-header">
-        <div>LOGO</div>
+        <div>React To Do List 2022</div>
         <nav>
           <NavLink
             to="home"
