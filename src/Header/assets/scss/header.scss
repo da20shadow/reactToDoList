@@ -1,0 +1,11 @@
+.nav-link {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 0 10px;
+    &:hover{
+        color: red;
+    }
+}
+.active-link{
+    color: red;
+}

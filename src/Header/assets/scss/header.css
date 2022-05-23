@@ -1,0 +1,14 @@
+.nav-link {
+  color: aliceblue;
+  text-decoration: none;
+  padding: 0 10px;
+}
+
+.nav-link:hover {
+  color: red;
+}
+
+.active-link {
+  color: red;
+}
+/*# sourceMappingURL=header.css.map */
